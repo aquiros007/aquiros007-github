@@ -41,8 +41,8 @@
         "topic": "ISO 27001 — Ciberseguridad con IA",
         "pillar": "Cybersecurity",
         "type": "image_post",
-        "status": "IMAGE_PENDING",
-        "image_url": null,
+        "status": "IMAGE_READY",
+        "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20260903_194201_0380ed8e-60a8-4549-972b-d799ad228135.png",
         "image_description": "Hombre latinoamericano celebrando victoria frente a dashboards de ciberseguridad con IA, neon verde intenso, postura de triunfo",
         "caption": "🔐 El 68% de las brechas de datos podría prevenirse con controles ISO 27001 bien implementados.\n\nPero hay algo nuevo: la IA está cambiando cómo auditamos, monitoreamos y respondemos a incidentes.\n\nLo que la IA hace por ISO 27001:\n🛡️ Detección de anomalías en tiempo real (SIEM inteligente)\n🛡️ Análisis predictivo de vulnerabilidades\n🛡️ Automatización de controles del Anexo A\n🛡️ Evidencia continua para auditorías\n\nEl profesional de ciberseguridad que domina IA + ISO 27001 es el más cotizado del mercado.\n\nAprende cómo en:\n👉 www.niqst.com\n\n#ISO27001 #Ciberseguridad #SIEM #AIInCybersecurity #NIQST",
         "hashtags": ["#ISO27001", "#Ciberseguridad", "#CyberSecurity", "#AIInCybersecurity", "#NIQST"],
@@ -212,10 +212,10 @@
     ]
   },
 
-  "images_completed": 7,
+  "images_completed": 8,
   "images_total": 8,
   "videos_completed": 0,
   "videos_total": 2,
   "last_updated": "2026-09-03",
-  "notes": "7/8 images generated with Higgsfield soul_2. Pending: s1_martes (ISO 27001) stuck in queue — retry. Wan 3.0 videos require account credit top-up before generation."
+  "notes": "8/8 images generated with Higgsfield soul_2 — ALL READY. Wan 3.0 videos (s1_viernes, s2_viernes) require Higgsfield credit top-up before generation."
 }

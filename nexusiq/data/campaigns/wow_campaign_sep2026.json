@@ -1,0 +1,220 @@
+{
+  "campaign_name": "WOW Effect — IA para el Trabajo | Sep 2026",
+  "description": "2-week LinkedIn campaign. WOW-effect images of people learning with AI at work. Every Friday: Wan 3 video. CTA: www.niqst.com",
+  "period": "2026-09-08 to 2026-09-19",
+  "language": "es",
+  "cta_url": "https://www.niqst.com",
+  "image_style": "soul_2 model | cinematic | people empowered by AI | dramatic lighting | 3:4 aspect ratio",
+  "video_model": "wan_3 (Higgsfield) | weekly every Friday | people using AI at work | cinematic storytelling",
+
+  "editorial_rules": {
+    "official_sources_only": ["iso.org", "ifrs.org/issb", "globalreporting.org", "nist.gov", "eur-lex.europa.eu", "acfe.com", "tcfd.net", "ifac.org", "enisa.europa.eu"],
+    "every_post_must": ["include www.niqst.com CTA", "use WOW-effect image or Wan 3 video", "show people benefiting from AI", "provide actionable value"],
+    "never_publish": ["competitor promotion", "political content", "unverified claims", "stock photo generic content"],
+    "publish_time": "07:00 CR (GMT-6)",
+    "image_format": "3:4 vertical | min 1080px wide",
+    "video_format": "16:9 | 30-60 seconds | Wan 3 Higgsfield"
+  },
+
+  "week_1": {
+    "label": "Semana 1 — ISO · Gobernanza IA · IFRS",
+    "posts": [
+      {
+        "id": "s1_lunes",
+        "date": "2026-09-08",
+        "day": "Lunes",
+        "topic": "ISO 42001 — Gestión de IA",
+        "pillar": "AI Governance",
+        "type": "image_post",
+        "status": "IMAGE_READY",
+        "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20260903_173843_0ce344d0-5bb4-453b-a24c-2ebe1409778e.png",
+        "image_description": "Mujer latinoamericana profesional frente a monitores con dashboards de IA e ISO 42001, iluminación neon azul y dorado, expresión de empoderamiento",
+        "caption": "🤖 ISO 42001 ya es una realidad. ¿Tu empresa está lista?\n\nLa primera norma internacional de gestión de sistemas de IA llegó, y las empresas que la implementen primero tendrán ventaja competitiva enorme.\n\nLo que necesitas saber:\n✅ Aplica a cualquier organización que use o desarrolle IA\n✅ Es compatible con ISO 9001 e ISO 27001\n✅ Exige evidencia de supervisión humana de decisiones automatizadas\n✅ Requiere análisis de impacto en derechos fundamentales\n\nEl profesional que entiende ISO 42001 hoy, lidera la gobernanza de IA mañana.\n\n¿Quieres dominar este estándar y posicionarte como referente?\n👉 www.niqst.com\n\n#ISO42001 #GobernanzaIA #ArtificialIntelligence #Compliance #NIQST",
+        "hashtags": ["#ISO42001", "#GobernanzaIA", "#AIGovernance", "#Compliance", "#NIQST", "#niqst"],
+        "source": "iso.org/standard/81230.html",
+        "higgsfield_prompt_for_regen": "Cinematic portrait of a confident Latin American professional woman, 30s, sitting at a futuristic workstation with 3 glowing monitors displaying AI dashboards and ISO 42001 governance frameworks. Her face is lit by electric blue and gold neon light, expression of pure excitement and empowerment. The background is a sleek dark corporate office with bokeh city lights. Ultra-high detail, 8K, dramatic rim lighting, shallow depth of field. WOW effect."
+      },
+      {
+        "id": "s1_martes",
+        "date": "2026-09-09",
+        "day": "Martes",
+        "topic": "ISO 27001 — Ciberseguridad con IA",
+        "pillar": "Cybersecurity",
+        "type": "image_post",
+        "status": "IMAGE_PENDING",
+        "image_url": null,
+        "image_description": "Hombre latinoamericano celebrando victoria frente a dashboards de ciberseguridad con IA, neon verde intenso, postura de triunfo",
+        "caption": "🔐 El 68% de las brechas de datos podría prevenirse con controles ISO 27001 bien implementados.\n\nPero hay algo nuevo: la IA está cambiando cómo auditamos, monitoreamos y respondemos a incidentes.\n\nLo que la IA hace por ISO 27001:\n🛡️ Detección de anomalías en tiempo real (SIEM inteligente)\n🛡️ Análisis predictivo de vulnerabilidades\n🛡️ Automatización de controles del Anexo A\n🛡️ Evidencia continua para auditorías\n\nEl profesional de ciberseguridad que domina IA + ISO 27001 es el más cotizado del mercado.\n\nAprende cómo en:\n👉 www.niqst.com\n\n#ISO27001 #Ciberseguridad #SIEM #AIInCybersecurity #NIQST",
+        "hashtags": ["#ISO27001", "#Ciberseguridad", "#CyberSecurity", "#AIInCybersecurity", "#NIQST"],
+        "source": "iso.org/standard/27001",
+        "higgsfield_prompt_for_regen": "Dramatic cinematic shot of a young Latin American man in business casual, fist-pump celebrating in front of massive curved monitors showing AI-powered cybersecurity dashboards and ISO 27001 compliance charts. Vibrant green and white neon glow fills the room. Motion blur energy lines suggest speed and success. The room is modern, tech-forward. Photorealistic, 8K ultra-detail."
+      },
+      {
+        "id": "s1_miercoles",
+        "date": "2026-09-10",
+        "day": "Miércoles",
+        "topic": "IFRS S1/S2 — Informes de Sostenibilidad",
+        "pillar": "ESG Reporting",
+        "type": "image_post",
+        "status": "IMAGE_READY",
+        "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20260903_173843_4ae5ce41-ea74-401f-8e38-11f7646e4c56.png",
+        "image_description": "Equipo diverso alrededor de mesa holográfica con datos ESG y NIIF S1/S2 visualizados como gráficos verdes brillantes, sala de juntas moderna con luz dorada",
+        "caption": "📊 NIIF S1 y S2: La revolución silenciosa que está cambiando la contabilidad global.\n\nDesde enero 2024, el ISSB (IFRS Foundation) exige:\n\nNIIF S1 → Divulgaciones generales de sostenibilidad\nNIIF S2 → Riesgos y oportunidades relacionados con el clima\n\nEsto significa que los contadores, auditores y CFOs necesitan:\n✅ Entender materialidad climática\n✅ Calcular emisiones Scope 1, 2 y 3\n✅ Alinear con TCFD y GRI\n✅ Reportar con evidencia verificable\n\nLa IA está facilitando todo esto. Los que aprendan ahora liderarán.\n\nCursos especializados en: 👉 www.niqst.com\n\n#NIIFS1 #NIIFS2 #IFRS #InformeSostenibilidad #ESG #NIQST",
+        "hashtags": ["#NIIFS1", "#NIIFS2", "#IFRS", "#ISSB", "#InformeSostenibilidad", "#ESG", "#NIQST"],
+        "source": "ifrs.org/issb/",
+        "higgsfield_prompt_for_regen": "Wide cinematic shot of a diverse team of 3 professionals gathered around a holographic table display showing ESG sustainability report data visualized as glowing green graphs and IFRS S1/S2 frameworks. They are laughing and pointing at insights, animated, empowered. Golden hour light streams through floor-to-ceiling windows of a modern boardroom."
+      },
+      {
+        "id": "s1_jueves",
+        "date": "2026-09-11",
+        "day": "Jueves",
+        "topic": "EU AI Act — Cumplimiento Regulatorio",
+        "pillar": "AI Regulation",
+        "type": "image_post",
+        "status": "IMAGE_READY",
+        "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20260903_173843_a9037f9b-b695-4228-bca7-e70057ff3400.png",
+        "image_description": "Mujer profesional sosteniendo tablet con EU AI Act compliance checklist, retroiluminación cálida ámbar con bokeh púrpura, expresión de autoridad y dominio",
+        "caption": "⚖️ El EU AI Act ya está en vigor. ¿Sabes en qué categoría cae tu sistema de IA?\n\nLa primera ley integral de IA del mundo clasifica los sistemas en:\n\n🔴 Riesgo Inaceptable → PROHIBIDO (manipulación, scoring social)\n🟠 Alto Riesgo → Requisitos estrictos (RRHH, crédito, infraestructura)\n🟡 Riesgo Limitado → Obligaciones de transparencia\n🟢 Riesgo Mínimo → Sin restricciones\n\nLas multas llegan hasta €35 millones o el 7% del ingreso global.\n\nLos expertos en cumplimiento de IA serán los más demandados en Europa y América Latina.\n\nPrepárate con nosotros: 👉 www.niqst.com\n\n#EUAIAct #CumplimientoIA #AIRegulation #GDPR #Compliance #NIQST",
+        "hashtags": ["#EUAIAct", "#CumplimientoIA", "#AIRegulation", "#Compliance", "#NIQST"],
+        "source": "eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689",
+        "higgsfield_prompt_for_regen": "Close-up cinematic portrait of a smart professional woman in her 30s, holding a tablet showing EU AI Act compliance checklist with AI automation. She's smiling confidently, looking at camera, backlit by warm amber office lights with purple bokeh. High fashion editorial quality, 8K, dramatic lighting."
+      },
+      {
+        "id": "s1_viernes",
+        "date": "2026-09-12",
+        "day": "Viernes",
+        "topic": "VIDEO SEMANAL — IA Transformando el Trabajo",
+        "pillar": "AI at Work",
+        "type": "video_post",
+        "status": "VIDEO_PENDING",
+        "video_model": "wan_3",
+        "video_url": null,
+        "video_duration_seconds": 45,
+        "video_aspect_ratio": "16:9",
+        "wan3_prompt": "Cinematic 45-second story: Open on a tired professional at her desk, papers everywhere, looking overwhelmed. Cut to her hands typing on a keyboard — AI interface lights up her screen. Montage: AI analyzes documents instantly, compliance reports auto-generate, her face transforms from stress to pure joy and confidence. Final shot: she stands, closes her laptop with a smile, office backdrop glowing with soft golden light. Text appears: 'Trabaja con IA. Lidera el cambio. www.niqst.com'. Inspirational orchestral music swell. Photorealistic, cinematic grade, 4K.",
+        "caption": "✨ Hace 6 meses, este trabajo me tomaba 3 días.\nHoy: 3 horas.\n\nLa IA no reemplaza el trabajo inteligente.\nLo multiplica.\n\nEn NexusIQ enseñamos a profesionales como tú a:\n🤖 Automatizar auditorías con IA\n📊 Generar informes ESG en tiempo récord\n🔐 Auditar sistemas de IA con ISO 42001\n\nLos que aprenden ahora, lideran mañana.\n\n👉 Únete en www.niqst.com\n\n#IATrabajo #AutomatizacionIA #Productividad #NIQST #AprendeIA",
+        "hashtags": ["#IATrabajo", "#AutomatizacionIA", "#Productividad", "#NIQST", "#AprendeIA", "#FuturoDelTrabajo"]
+      }
+    ]
+  },
+
+  "week_2": {
+    "label": "Semana 2 — Auditoría · Shadow AI · Sostenibilidad",
+    "posts": [
+      {
+        "id": "s2_lunes",
+        "date": "2026-09-15",
+        "day": "Lunes",
+        "topic": "Aprendizaje con IA — Beneficios Profesionales",
+        "pillar": "AI Learning",
+        "type": "image_post",
+        "status": "IMAGE_READY",
+        "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20260903_173843_426b5c03-3f19-4aa5-a751-b44e964a1335.png",
+        "image_description": "Mujer joven riendo mientras aprende curso de IA en laptop en coworking brillante, íconos flotantes de IA y certificados alrededor de ella, luz solar intensa",
+        "caption": "😄 El profesional más valioso de 2026 no es el que más sabe.\n\nEs el que aprende más rápido con IA.\n\n¿Cuánto tiempo ahorras si la IA te ayuda a:\n⏱️ Resumir informes de 200 páginas en 5 minutos?\n⏱️ Generar borradores de auditoría al instante?\n⏱️ Detectar anomalías financieras automáticamente?\n⏱️ Preparar un informe ESG completo en horas?\n\nNuestros estudiantes reportan un ahorro promedio de 15 horas/semana.\n\n¿Quieres ser uno de ellos?\n👉 www.niqst.com\n\n#AprendeConIA #ProductividadIA #CursosIA #NIQST #FuturoLaboral",
+        "hashtags": ["#AprendeConIA", "#ProductividadIA", "#CursosIA", "#NIQST", "#FuturoLaboral"],
+        "source": "niqst.com",
+        "higgsfield_prompt_for_regen": "Vibrant wide-angle shot of a young woman laughing joyfully while watching an online AI course on her laptop in a bright modern co-working space. Floating around her are glowing icons: robot, chart, certificate, lightbulb. Sunlight floods through large windows. Colorful, sharp, 8K editorial."
+      },
+      {
+        "id": "s2_martes",
+        "date": "2026-09-16",
+        "day": "Martes",
+        "topic": "Auditoría Forense con IA",
+        "pillar": "Forensic Audit",
+        "type": "image_post",
+        "status": "IMAGE_READY",
+        "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20260903_173843_e504a3c0-e5a7-4091-8c78-86e6940c1e42.png",
+        "image_description": "Auditor forense latinoamericano en oficina oscura iluminada por pantallas de análisis IA, detección de fraude ACFE, postura intensa de investigador",
+        "caption": "🔍 La IA detectó un fraude de $4.2 millones que los auditores humanos habían ignorado por 3 años.\n\nEl ACFE estima que las empresas pierden el 5% de sus ingresos anuales por fraude.\n\nLa auditoría forense con IA cambia el juego:\n🤖 Análisis de patrones en millones de transacciones\n🤖 Detección de anomalías estadísticas en segundos\n🤖 Análisis de lenguaje natural en emails y documentos\n🤖 Correlación de redes de relaciones sospechosas\n\nEl auditor forense que domina estas herramientas es invaluable.\n\nCertifícate en Auditoría Forense + IA:\n👉 www.niqst.com\n\n#AuditoriaForense #ACFE #FraudeFinanciero #IAenAuditoria #NIQST",
+        "hashtags": ["#AuditoriaForense", "#ACFE", "#FraudeFinanciero", "#IAenAuditoria", "#NIQST"],
+        "source": "acfe.com/resources/fraud-statistics",
+        "higgsfield_prompt_for_regen": "Moody dramatic cinematic photo of a forensic accountant, Latin American man 40s, in a dark office illuminated only by multiple screens showing fraud detection AI analysis, ACFE data patterns, financial forensics. He leans forward intensely, face half-lit in electric blue. Cinematic grade, 8K."
+      },
+      {
+        "id": "s2_miercoles",
+        "date": "2026-09-17",
+        "day": "Miércoles",
+        "topic": "Shadow AI — Riesgo Organizacional",
+        "pillar": "AI Governance",
+        "type": "image_post",
+        "status": "IMAGE_PENDING",
+        "image_url": null,
+        "image_description": "Profesional de IT descubriendo uso no autorizado de IA en la organización, pantallas con alertas rojas y mapas de red de datos, expresión de urgencia profesional",
+        "caption": "⚠️ El 65% de los empleados usa IA generativa en el trabajo sin que su empresa lo sepa.\n\nA esto se le llama Shadow AI. Y es el mayor riesgo de gobernanza que enfrentan las organizaciones hoy.\n\nProblemas del Shadow AI:\n🔴 Datos confidenciales enviados a modelos externos\n🔴 Decisiones basadas en alucinaciones de IA\n🔴 Violaciones de GDPR y EU AI Act\n🔴 Brechas en auditorías de ISO 27001\n\nLa solución no es prohibir la IA.\nEs goberninarla con ISO 42001.\n\nAprende a auditar Shadow AI:\n👉 www.niqst.com\n\n#ShadowAI #GobernanzaIA #ISO42001 #RiesgoOperacional #NIQST",
+        "hashtags": ["#ShadowAI", "#GobernanzaIA", "#ISO42001", "#RiesgoOperacional", "#NIQST"],
+        "source": "enisa.europa.eu",
+        "higgsfield_prompt_for_regen": "Dramatic cinematic shot of an IT professional at a multi-monitor setup, screens showing red alert warnings, unauthorized AI usage maps across organizational network diagrams. The professional leans in with urgency, face lit by red and white monitor glow in a dark server room. Photorealistic, 8K, cinematic, thriller-movie aesthetic."
+      },
+      {
+        "id": "s2_jueves",
+        "date": "2026-09-18",
+        "day": "Jueves",
+        "topic": "NIST AI RMF — Marco de Gestión de Riesgos IA",
+        "pillar": "AI Risk Management",
+        "type": "image_post",
+        "status": "IMAGE_PENDING",
+        "image_url": null,
+        "image_description": "Consultor de riesgo profesional frente a framework NIST AI RMF visualizado como mapa de calor interactivo, oficina moderna, confianza y expertise",
+        "caption": "🏗️ El NIST AI Risk Management Framework: La guía que toda organización necesita para gestionar IA responsablemente.\n\nPublicado por el National Institute of Standards and Technology, el AI RMF define 4 funciones clave:\n\n🔵 GOVERNAR → Políticas y cultura de gestión de riesgos IA\n🟢 MAPEAR → Identificar y clasificar riesgos de sistemas IA\n🟡 MEDIR → Analizar y evaluar riesgos identificados\n🟠 GESTIONAR → Priorizar y tratar riesgos con evidencia\n\nEs complementario a ISO 42001 y el EU AI Act.\n\nDomina el AI RMF y conviértete en referente:\n👉 www.niqst.com\n\n#NISTAI #AIRMF #GestionRiesgosIA #FrameworkIA #NIQST",
+        "hashtags": ["#NISTAI", "#AIRMF", "#GestionRiesgosIA", "#FrameworkIA", "#NIQST"],
+        "source": "nist.gov/artificial-intelligence",
+        "higgsfield_prompt_for_regen": "Wide cinematic shot of a confident risk management consultant, Latin American professional 35-40s, standing in front of a massive interactive screen showing the NIST AI Risk Management Framework as a beautiful heat map with GOVERN/MAP/MEASURE/MANAGE quadrants glowing in blue, green, yellow, orange. Modern consulting office, dramatic uplighting, professional authority. 8K photorealistic."
+      },
+      {
+        "id": "s2_viernes",
+        "date": "2026-09-19",
+        "day": "Viernes",
+        "topic": "VIDEO SEMANAL — Transformación Real con IA en Auditoría",
+        "pillar": "AI at Work",
+        "type": "video_post",
+        "status": "VIDEO_PENDING",
+        "video_model": "wan_3",
+        "video_url": null,
+        "video_duration_seconds": 50,
+        "video_aspect_ratio": "16:9",
+        "wan3_prompt": "Cinematic documentary-style 50-second video: Open with split screen — LEFT: traditional auditor manually reviewing stacks of paper files, stressed, slow. RIGHT: AI-powered auditor with sleek laptop, data flowing on screens, relaxed and efficient. Dramatic transition wipe uniting both screens. Center shot: the AI auditor smiles, exports a complete forensic audit report in seconds. Close-up of report: 'ISO 42001 Compliance | ESG Report | Fraud Detection — All Clear'. Final frame: professional raises coffee mug in toast, city skyline behind him at golden hour. Animated text fades in: 'Tu próximo nivel empieza en www.niqst.com'. Cinematic score, 4K.",
+        "caption": "📋 Antes: 3 días para preparar un informe de auditoría.\nAhora: 3 horas.\n\nNo es magia. Es IA bien aplicada.\n\nNuestros egresados de NexusIQ dominan:\n📌 ISO 42001 — Gestión de IA\n📌 Auditoría Forense con IA\n📌 IFRS S1/S2 — Reportes ESG\n📌 EU AI Act — Cumplimiento Regulatorio\n\nCada semana actualizamos los programas con lo último en regulación global.\n\n¿Listo para el siguiente nivel?\n👉 www.niqst.com\n\n#TransformacionDigital #AuditoriaConIA #NIQST #CursosOnline #AprendeIA",
+        "hashtags": ["#TransformacionDigital", "#AuditoriaConIA", "#NIQST", "#CursosOnline", "#AprendeIA"]
+      }
+    ]
+  },
+
+  "pending_actions": {
+    "images_to_generate": [
+      {
+        "post_id": "s1_martes",
+        "model": "soul_2",
+        "prompt": "Dramatic cinematic shot of a young Latin American man in business casual, fist-pump celebrating in front of massive curved monitors showing AI-powered cybersecurity dashboards and ISO 27001 compliance charts. Vibrant green and white neon glow fills the room. Motion blur energy lines suggest speed and success. Photorealistic, 8K ultra-detail."
+      },
+      {
+        "post_id": "s2_miercoles",
+        "model": "soul_2",
+        "prompt": "Dramatic cinematic shot of an IT professional at a multi-monitor setup, screens showing red alert warnings, unauthorized AI usage maps across organizational network diagrams. The professional leans in with urgency, face lit by red and white monitor glow in a dark server room. Photorealistic, 8K, cinematic."
+      },
+      {
+        "post_id": "s2_jueves",
+        "model": "soul_2",
+        "prompt": "Wide cinematic shot of a confident risk management consultant, Latin American professional, standing in front of a massive interactive screen showing the NIST AI Risk Management Framework as a beautiful heat map with GOVERN/MAP/MEASURE/MANAGE quadrants glowing in blue, green, yellow, orange. Modern consulting office, dramatic uplighting. 8K photorealistic."
+      }
+    ],
+    "videos_to_generate": [
+      {
+        "post_id": "s1_viernes",
+        "model": "wan_3",
+        "prompt": "Cinematic 45-second story: tired professional overwhelmed at desk → discovers AI tools → montage of AI automating compliance reports, ESG analysis, audit tasks → she transforms, confident and joyful → final shot: www.niqst.com text. Inspirational music, 4K cinematic."
+      },
+      {
+        "post_id": "s2_viernes",
+        "model": "wan_3",
+        "prompt": "Cinematic documentary split screen: traditional auditor (slow/stressed) vs AI auditor (fast/confident). Dramatic wipe transition → AI auditor exports full audit report in seconds → raises coffee mug in toast → www.niqst.com. Cinematic score, 4K."
+      }
+    ]
+  },
+
+  "images_completed": 5,
+  "images_total": 8,
+  "videos_completed": 0,
+  "videos_total": 2,
+  "last_updated": "2026-09-03"
+}

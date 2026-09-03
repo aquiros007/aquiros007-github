@@ -138,8 +138,8 @@
         "topic": "Shadow AI — Riesgo Organizacional",
         "pillar": "AI Governance",
         "type": "image_post",
-        "status": "IMAGE_PENDING",
-        "image_url": null,
+        "status": "IMAGE_READY",
+        "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20260903_191729_fbf5c5d0-986c-4e77-976e-ac46db7aafe7.png",
         "image_description": "Profesional de IT descubriendo uso no autorizado de IA en la organización, pantallas con alertas rojas y mapas de red de datos, expresión de urgencia profesional",
         "caption": "⚠️ El 65% de los empleados usa IA generativa en el trabajo sin que su empresa lo sepa.\n\nA esto se le llama Shadow AI. Y es el mayor riesgo de gobernanza que enfrentan las organizaciones hoy.\n\nProblemas del Shadow AI:\n🔴 Datos confidenciales enviados a modelos externos\n🔴 Decisiones basadas en alucinaciones de IA\n🔴 Violaciones de GDPR y EU AI Act\n🔴 Brechas en auditorías de ISO 27001\n\nLa solución no es prohibir la IA.\nEs goberninarla con ISO 42001.\n\nAprende a auditar Shadow AI:\n👉 www.niqst.com\n\n#ShadowAI #GobernanzaIA #ISO42001 #RiesgoOperacional #NIQST",
         "hashtags": ["#ShadowAI", "#GobernanzaIA", "#ISO42001", "#RiesgoOperacional", "#NIQST"],
@@ -153,8 +153,8 @@
         "topic": "NIST AI RMF — Marco de Gestión de Riesgos IA",
         "pillar": "AI Risk Management",
         "type": "image_post",
-        "status": "IMAGE_PENDING",
-        "image_url": null,
+        "status": "IMAGE_READY",
+        "image_url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20260903_191729_3503bc4b-ac3d-440d-925e-8d732b40c8b8.png",
         "image_description": "Consultor de riesgo profesional frente a framework NIST AI RMF visualizado como mapa de calor interactivo, oficina moderna, confianza y expertise",
         "caption": "🏗️ El NIST AI Risk Management Framework: La guía que toda organización necesita para gestionar IA responsablemente.\n\nPublicado por el National Institute of Standards and Technology, el AI RMF define 4 funciones clave:\n\n🔵 GOVERNAR → Políticas y cultura de gestión de riesgos IA\n🟢 MAPEAR → Identificar y clasificar riesgos de sistemas IA\n🟡 MEDIR → Analizar y evaluar riesgos identificados\n🟠 GESTIONAR → Priorizar y tratar riesgos con evidencia\n\nEs complementario a ISO 42001 y el EU AI Act.\n\nDomina el AI RMF y conviértete en referente:\n👉 www.niqst.com\n\n#NISTAI #AIRMF #GestionRiesgosIA #FrameworkIA #NIQST",
         "hashtags": ["#NISTAI", "#AIRMF", "#GestionRiesgosIA", "#FrameworkIA", "#NIQST"],
@@ -212,9 +212,10 @@
     ]
   },
 
-  "images_completed": 5,
+  "images_completed": 7,
   "images_total": 8,
   "videos_completed": 0,
   "videos_total": 2,
-  "last_updated": "2026-09-03"
+  "last_updated": "2026-09-03",
+  "notes": "7/8 images generated with Higgsfield soul_2. Pending: s1_martes (ISO 27001) stuck in queue — retry. Wan 3.0 videos require account credit top-up before generation."
 }

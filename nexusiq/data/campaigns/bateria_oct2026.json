@@ -1,0 +1,138 @@
+{
+  "campaign_id": "bateria_oct_12_17_2026",
+  "campaign_name": "Batería Semanal LinkedIn — 12–17 octubre 2026",
+  "created_at": "2026-10-13",
+  "skill_version": "linkedin-voice-publisher-v3",
+  "status": "READY_TO_PUBLISH",
+  "artifact_url": "https://claude.ai/artifact/RvYaRC2hpf2cbLsEvhiupw",
+  "image_model": "soul_2",
+  "image_aspect_ratio": "3:4",
+  "image_quality": "2k",
+  "images_completed": 6,
+  "posts": [
+    {
+      "id": "lun_12oct",
+      "day": "Lunes",
+      "date": "2026-10-12",
+      "publish_time": "07:00 CR (GMT-6)",
+      "status": "IMAGE_READY",
+      "topic": "AI Governance — Estado actual en LATAM",
+      "pillar": "Gobernanza",
+      "teses": ["T1", "T3"],
+      "comment_trigger": "CT5",
+      "cta_type": "conversacional",
+      "hashtags": ["#GobernanzaIA", "#ISO42001", "#EUAIAct", "#LATAMIA", "#NexusIQ"],
+      "data_source": "GCERTI 2026 — 8% LATAM orgs con AI governance",
+      "hook_chars": 135,
+      "image": {
+        "job_id": "1313a405-fd1a-48be-a006-2e9d19f4af61",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261013_151026_1313a405-fd1a-48be-a006-2e9d19f4af61.png",
+        "prompt": "Cinematic portrait of a confident Latin American executive woman, 35s, at a sleek modern boardroom table, multiple screens behind her displaying AI governance dashboards and ISO compliance frameworks. Electric blue and deep navy lighting, expression of focused authority. Ultra-detailed 8K photorealistic, dramatic rim lighting, shallow depth of field, WOW effect."
+      }
+    },
+    {
+      "id": "mar_13oct",
+      "day": "Martes",
+      "date": "2026-10-13",
+      "publish_time": "07:00 CR (GMT-6)",
+      "status": "IMAGE_READY",
+      "topic": "6 pasos para gobernar la IA — Carrusel (9 slides)",
+      "pillar": "Framework Hands-On",
+      "teses": ["T1", "T2"],
+      "comment_trigger": "CT6+CT7",
+      "cta_type": "comercial",
+      "cta_url": "https://wa.me/message/6Q5VSRREEPF2P1",
+      "hashtags": ["#ISO42001", "#GobernanzaIA", "#AICompliance", "#FrameworkIA", "#NexusIQ"],
+      "data_source": "GCERTI 2026 — 92% sin marco formal",
+      "format": "carrusel_9_slides",
+      "hook_chars": 115,
+      "image": {
+        "job_id": "b2bdfee0-8f4d-4e73-b4bc-dc6a76a0f347",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261013_151116_b2bdfee0-8f4d-4e73-b4bc-dc6a76a0f347.png",
+        "prompt": "Cinematic wide shot of three Latin American professionals — man and two women — gathered around a glowing holographic display showing a 6-step AI governance framework with interconnected nodes and flow diagrams. Warm golden office light with cool blue accent highlights from the screens. Collaboration energy, all leaning in. 8K photorealistic, editorial quality, WOW effect."
+      }
+    },
+    {
+      "id": "mie_14oct",
+      "day": "Miércoles",
+      "date": "2026-10-14",
+      "publish_time": "07:00 CR (GMT-6)",
+      "status": "IMAGE_READY",
+      "topic": "ISO 42001 no garantiza cumplimiento del EU AI Act",
+      "pillar": "Regulación / Contrarian",
+      "teses": ["T1", "T6"],
+      "comment_trigger": "CT4",
+      "cta_type": "conversacional",
+      "hashtags": ["#EUAIAct", "#ISO42001", "#AICompliance", "#GobernanzaIA", "#NexusIQ"],
+      "data_source": "AI Office UE · Art. 40 EU AI Act · prEN 18286",
+      "hook_chars": 115,
+      "image": {
+        "job_id": "c4ec4a3c-beac-42cf-913c-ccd8ea901892",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261013_151026_c4ec4a3c-beac-42cf-913c-ccd8ea901892.png",
+        "prompt": "Cinematic close-up of a sharp Latin American compliance professional, 40s, standing in front of a massive screen split in two: left side shows ISO 42001 certification text, right side shows EU AI Act regulation text with a red X connecting them. Deep charcoal background, cold white and amber lighting, expression of expertise and authority. 8K photorealistic, dramatic, WOW effect."
+      }
+    },
+    {
+      "id": "jue_15oct",
+      "day": "Jueves",
+      "date": "2026-10-15",
+      "publish_time": "07:00 CR (GMT-6)",
+      "status": "IMAGE_READY",
+      "topic": "Caso real: firma auditora CR — 3 semanas → 4 días con IA",
+      "pillar": "Revenue con IA / Caso Real",
+      "teses": ["T4", "T5"],
+      "comment_trigger": "CT3",
+      "cta_type": "conversacional",
+      "hashtags": ["#IAenAuditoria", "#RevenueConIA", "#AutomatizaciónIA", "#HumanInTheLoop", "#NexusIQ"],
+      "data_source": "Caso propio — firma auditora Costa Rica",
+      "hook_chars": 176,
+      "image": {
+        "job_id": "af3fb76c-9448-404c-825e-9335096eb479",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261013_151026_af3fb76c-9448-404c-825e-9335096eb479.png",
+        "prompt": "Moody cinematic shot of a Latin American forensic auditor, man in his 40s, leaning forward intensely over a glowing laptop showing AI contract analysis with highlighted risk clauses. Dark modern office, multiple screens with document comparison interfaces, electric blue and white neon glow illuminates his focused face. 8K photorealistic, noir thriller aesthetic, WOW effect."
+      }
+    },
+    {
+      "id": "vie_16oct",
+      "day": "Viernes",
+      "date": "2026-10-16",
+      "publish_time": "07:00 CR (GMT-6)",
+      "status": "IMAGE_READY",
+      "topic": "OCDE: 53% productividad posible — solo 28% logra resultados",
+      "pillar": "IA en LATAM / Datos",
+      "teses": ["T3", "T4", "T6"],
+      "comment_trigger": "CT5+CT2",
+      "cta_type": "comercial",
+      "cta_url": "https://wa.me/message/6Q5VSRREEPF2P1",
+      "hashtags": ["#LATAMIA", "#ProductividadIA", "#ImplementaciónIA", "#GobernanzaIA", "#NexusIQ"],
+      "data_source": "OCDE sept 2026 — 13–53% productivity LATAM · NTT Data/CIIT 28% success rate",
+      "hook_chars": 159,
+      "image": {
+        "job_id": "a1014242-2325-4d03-93f1-552334821fe2",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261013_151116_a1014242-2325-4d03-93f1-552334821fe2.png",
+        "prompt": "Vibrant cinematic portrait of a young Latin American professional woman, 30s, celebrating with arms raised in front of a massive screen showing productivity growth charts for LATAM countries — Mexico, Chile, Colombia, Costa Rica — with glowing 53% metric prominently displayed. Bright energetic lighting, modern office with city skyline at golden hour. 8K photorealistic, triumphant energy, WOW effect."
+      }
+    },
+    {
+      "id": "sab_17oct",
+      "day": "Sábado",
+      "date": "2026-10-17",
+      "publish_time": "08:00 CR (GMT-6)",
+      "status": "IMAGE_READY",
+      "topic": "Human in the Loop — ninguna decisión automatizada sin responsable (Evergreen)",
+      "pillar": "Gobernanza · Evergreen",
+      "teses": ["T2", "T1"],
+      "comment_trigger": "CT4",
+      "cta_type": "conversacional",
+      "hashtags": ["#HumanInTheLoop", "#GobernanzaIA", "#ISO42001", "#EUAIAct", "#NexusIQ"],
+      "data_source": "EU AI Act · ISO 42001 · NIST AI RMF",
+      "hook_chars": 160,
+      "format": "evergreen",
+      "image": {
+        "job_id": "11b72b4d-78e5-4d88-bb3f-349225a9ee44",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261013_151027_11b72b4d-78e5-4d88-bb3f-349225a9ee44.png",
+        "prompt": "Cinematic portrait of a thoughtful Latin American technology leader, man 38s, hand resting deliberately on keyboard while a large screen behind him shows an AI decision flowchart with a bright red HUMAN REVIEW checkpoint node. The human node glows warmly against the dark tech interface. Deep navy office, dramatic uplighting, expression of contemplative authority. 8K photorealistic, WOW effect."
+      }
+    }
+  ]
+}

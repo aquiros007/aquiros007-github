@@ -3,7 +3,7 @@
   "campaign_name": "Batería Semanal LinkedIn — 19–24 octubre 2026",
   "created_at": "2026-10-14",
   "skill_version": "linkedin-voice-publisher-v3",
-  "status": "READY_TO_PUBLISH",
+  "status": "IMAGE_READY",
   "image_model": "soul_2",
   "image_aspect_ratio": "3:4",
   "image_quality": "2k",
@@ -13,7 +13,13 @@
       "day": "Lunes",
       "date": "2026-10-19",
       "publish_time": "07:00 CR (GMT-6)",
-      "status": "READY_TO_PUBLISH",
+      "status": "IMAGE_READY",
+      "image": {
+        "job_id": "e054dd6c-9f53-436e-b770-dd01b11cfe49",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261014_193025_e054dd6c-9f53-436e-b770-dd01b11cfe49.png",
+        "model": "soul_2",
+        "aspect_ratio": "3:4"
+      },
       "topic": "Mapa regulatorio IA LATAM se fragmenta",
       "pillar": "Gobernanza / Regulación Regional",
       "teses": ["T1", "T3"],
@@ -29,7 +35,13 @@
       "day": "Martes",
       "date": "2026-10-20",
       "publish_time": "07:00 CR (GMT-6)",
-      "status": "READY_TO_PUBLISH",
+      "status": "IMAGE_READY",
+      "image": {
+        "job_id": "24358a1a-0963-4d05-9c86-1e2a52528dff",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261014_193026_24358a1a-0963-4d05-9c86-1e2a52528dff.png",
+        "model": "soul_2",
+        "aspect_ratio": "3:4"
+      },
       "topic": "5 señales de que tu proyecto de IA va a fracasar antes de los 90 días — Carrusel",
       "pillar": "Framework Diagnóstico",
       "teses": ["T4", "T2"],
@@ -47,7 +59,13 @@
       "day": "Miércoles",
       "date": "2026-10-21",
       "publish_time": "07:00 CR (GMT-6)",
-      "status": "READY_TO_PUBLISH",
+      "status": "IMAGE_READY",
+      "image": {
+        "job_id": "7bcd8c47-d13f-4811-a747-76031c367470",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261014_193027_7bcd8c47-d13f-4811-a747-76031c367470.png",
+        "model": "soul_2",
+        "aspect_ratio": "3:4"
+      },
       "topic": "EU AI Act Art. 14 + NIS2: HITL ya es exigencia legal",
       "pillar": "Gobernanza expandida / HITL",
       "teses": ["T2", "T1"],
@@ -63,7 +81,13 @@
       "day": "Jueves",
       "date": "2026-10-22",
       "publish_time": "07:00 CR (GMT-6)",
-      "status": "READY_TO_PUBLISH",
+      "status": "IMAGE_READY",
+      "image": {
+        "job_id": "089e1966-b8a5-4648-8465-d143f351daff",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261014_193026_089e1966-b8a5-4648-8465-d143f351daff.png",
+        "model": "soul_2",
+        "aspect_ratio": "3:4"
+      },
       "topic": "Caso real: financiera Guatemala — crédito 12 días → 4 horas",
       "pillar": "Revenue con IA / Caso Real",
       "teses": ["T4", "T5"],
@@ -79,7 +103,13 @@
       "day": "Viernes",
       "date": "2026-10-23",
       "publish_time": "07:00 CR (GMT-6)",
-      "status": "READY_TO_PUBLISH",
+      "status": "IMAGE_READY",
+      "image": {
+        "job_id": "8f67235e-47c2-4b32-b2f8-6499b740f089",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261014_193111_8f67235e-47c2-4b32-b2f8-6499b740f089.png",
+        "model": "soul_2",
+        "aspect_ratio": "3:4"
+      },
       "topic": "95% adoptó IA en LATAM, 60% tiene resultados — el 35% tiene nombre",
       "pillar": "IA en LATAM / Datos",
       "teses": ["T3", "T4", "T6"],
@@ -96,7 +126,13 @@
       "day": "Sábado",
       "date": "2026-10-24",
       "publish_time": "08:00 CR (GMT-6)",
-      "status": "READY_TO_PUBLISH",
+      "status": "IMAGE_READY",
+      "image": {
+        "job_id": "73ce9e80-8db4-4148-bef6-4a36aa22865a",
+        "url": "https://d8j0ntlcm91z4.cloudfront.net/user_32zXsci1csqDMEn8GIwAvfWf8ju/hf_20261014_193110_73ce9e80-8db4-4148-bef6-4a36aa22865a.png",
+        "model": "soul_2",
+        "aspect_ratio": "3:4"
+      },
       "topic": "4 decisiones de semana 1 — piloto permanente vs. proyecto que escala (Evergreen)",
       "pillar": "Gobernanza · Evergreen",
       "teses": ["T4", "T2", "T6"],

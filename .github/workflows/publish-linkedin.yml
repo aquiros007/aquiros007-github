@@ -1,0 +1,47 @@
+name: Publish LinkedIn Post
+
+# Fires at 7:00 AM Costa Rica (GMT-6) = 13:00 UTC, Mon–Sat
+# Saturday posts are scheduled at 8:00 AM CR — set publish_time manually if needed
+on:
+  schedule:
+    - cron: '0 13 * * 1-6'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date to publish (YYYY-MM-DD). Empty = today in CR timezone.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Publish post
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_PERSON_URN: ${{ secrets.LINKEDIN_PERSON_URN }}
+          LINKEDIN_PUBLISH_DATE: ${{ github.event.inputs.date }}
+        run: python nexusiq/scripts/publish_post.py
+
+      - name: Commit status update
+        run: |
+          git config user.name "nexusiq-bot"
+          git config user.email "nexusiq-bot@users.noreply.github.com"
+          git add nexusiq/data/campaigns/
+          git diff --staged --quiet && echo "Nothing to commit" || \
+            git commit -m "chore: mark post PUBLISHED [$(date -u +%Y-%m-%dT%H:%M:%SZ)]"
+          git push
